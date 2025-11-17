@@ -8,5 +8,9 @@ aiohttp==3.8.5
 python-dateutil==2.8.2
 pillow==10.0.0
 seaborn==0.12.2
-ta-lib==0.4.26
-pandas
+ta
+setuptools>=68.0
+wheel
+build
+
+
